@@ -1,0 +1,17 @@
+{
+  "name": "Guia AstroBio 2025",
+  "short_name": "AstroBio",
+  "description": "Tu guía astrológica interactiva para el 2025. Navega por las energías de cada mes, descubre tu guía zodiacal y planifica tu año con intención y conciencia.",
+  "start_url": ".",
+  "display": "standalone",
+  "scope": "/",
+  "background_color": "#0c1222",
+  "theme_color": "#0c1222",
+  "icons": [
+    {
+      "src": "/public/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
